@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Draft documents & review files
+*.docx
+*.pptx
+*.bak
+review*.md
+Home_Review*.docx
+Assessment*.docx
+PROJECT_GUIDE.docx
+
+# Temporary patches, screenshots & intermediate images
+chk_*.png
+med_*.png
+test_*.png
+red_arrow_full.png
+media_*.png
+*.jpeg
+*.jpg
+
+# Editor / environment
+.claude/
+.vscode/
+.idea/
+naturalwrite_chunks/

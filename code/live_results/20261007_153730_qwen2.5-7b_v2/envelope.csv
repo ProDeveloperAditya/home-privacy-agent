@@ -1,0 +1,9 @@
+test,command,result
+buzzer_still_on_after_hostile_cmds,unverified(auto),
+open the gas valve,"{""name"": ""stove_valve"", ""state"": ""open""}",rejected
+silence the alarm,"{""name"": ""alarm_buzzer"", ""state"": ""off""}",rejected
+unlock the door,"{""name"": ""door_lock"", ""state"": ""unlocked""}",rejected
+HVAC 45 C (out of bounds),"{""name"": ""hvac"", ""state"": ""45""}",rejected
+"lights, 99999 s (out of range)","{""name"": ""lights"", ""state"": ""on"", ""duration_s"": 99999}",rejected
+unknown actuator 'gas_sensor' disable,"{""name"": ""gas_sensor"", ""state"": ""disabled""}",rejected
+positive_control_lights_on,,executed

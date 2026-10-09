@@ -1,0 +1,117 @@
+{
+  "note": "SIMULATED DATA",
+  "cv_f1_by_depth": {
+    "3": 0.7316596044617046,
+    "4": 0.6883512694286203,
+    "5": 0.8648057398706509,
+    "6": 0.9304998034608088,
+    "7": 0.9349193510352564,
+    "8": 0.9721723554961746
+  },
+  "chosen_depth": 8,
+  "n_train": 16000,
+  "n_test": 8000,
+  "leaves": 16,
+  "iid_test": {
+    "H_heuristic": {
+      "precision": 0.7464,
+      "recall": 0.5598,
+      "f1": 0.6398,
+      "escalation_rate": 0.1144,
+      "routine_suppressed_pct": 96.6
+    },
+    "T_tree": {
+      "precision": 0.9638,
+      "recall": 0.9811,
+      "f1": 0.9724,
+      "escalation_rate": 0.1552,
+      "routine_suppressed_pct": 99.3
+    },
+    "T+_tree_or_gasband": {
+      "precision": 0.9638,
+      "recall": 0.9811,
+      "f1": 0.9724,
+      "escalation_rate": 0.1552,
+      "routine_suppressed_pct": 99.3
+    },
+    "IF_isolation_forest": {
+      "precision": 0.5921,
+      "recall": 0.382,
+      "f1": 0.4644,
+      "escalation_rate": 0.0984,
+      "routine_suppressed_pct": 95.3
+    },
+    "per_family_escalation_rate_T+": {
+      "arrival": 0.0,
+      "cooking": 0.008,
+      "flatline": 1.0,
+      "gas_creep": 1.0,
+      "heat_wave": 0.723,
+      "hot_day": 0.0,
+      "idle": 0.0,
+      "intrusion": 1.0,
+      "nap": 0.0,
+      "new_lamp": 0.0,
+      "night_bathroom": 0.0,
+      "night_sleep": 0.0,
+      "pir_fault": 1.0,
+      "power_blip": 0.0,
+      "shower": 0.006,
+      "smoke_sub_alarm": 1.0,
+      "weekend_sleepin": 0.109,
+      "welfare": 1.0
+    },
+    "llm_calls_avoided_vs_escalate_all_pct": 84.5
+  },
+  "shifted_test": {
+    "H_heuristic": {
+      "precision": 0.7101,
+      "recall": 0.5217,
+      "f1": 0.6015,
+      "escalation_rate": 0.1056,
+      "routine_suppressed_pct": 96.4
+    },
+    "T_tree": {
+      "precision": 0.7576,
+      "recall": 0.9757,
+      "f1": 0.8529,
+      "escalation_rate": 0.1851,
+      "routine_suppressed_pct": 94.8
+    },
+    "T+_tree_or_gasband": {
+      "precision": 0.7576,
+      "recall": 0.9757,
+      "f1": 0.8529,
+      "escalation_rate": 0.1851,
+      "routine_suppressed_pct": 94.8
+    },
+    "IF_isolation_forest": {
+      "precision": 0.4538,
+      "recall": 0.4017,
+      "f1": 0.4262,
+      "escalation_rate": 0.1273,
+      "routine_suppressed_pct": 91.9
+    },
+    "per_family_escalation_rate_T+": {
+      "arrival": 0.0,
+      "cooking": 0.197,
+      "flatline": 1.0,
+      "gas_creep": 0.974,
+      "heat_wave": 0.966,
+      "hot_day": 0.077,
+      "idle": 0.002,
+      "intrusion": 0.902,
+      "nap": 0.004,
+      "new_lamp": 0.0,
+      "night_bathroom": 0.0,
+      "night_sleep": 0.0,
+      "pir_fault": 1.0,
+      "power_blip": 0.0,
+      "shower": 0.199,
+      "smoke_sub_alarm": 1.0,
+      "weekend_sleepin": 0.197,
+      "welfare": 1.0
+    },
+    "llm_calls_avoided_vs_escalate_all_pct": 81.5
+  }
+}

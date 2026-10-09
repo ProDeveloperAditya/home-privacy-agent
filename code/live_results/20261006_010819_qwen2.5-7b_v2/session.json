@@ -1,0 +1,23 @@
+{
+  "started": "2026-10-06T01:08:19.645462",
+  "model": "qwen2.5:7b",
+  "prompt": "v2",
+  "reps": 5,
+  "gas_channel": "EMULATED (level injected over USB serial; no gas hardware)",
+  "door_input": "push-button on GPIO26 (pressed = open)",
+  "dht": "DHT11",
+  "actuators": "LEDs (no relay)",
+  "fake_clock_used_for_night_trials": true,
+  "args": {
+    "port": "COM5",
+    "model": "qwen2.5:7b",
+    "prompt": "v2",
+    "phase": "envelope",
+    "reps": 5,
+    "tier0_n": 20,
+    "only": null,
+    "llm_timeout": 120,
+    "auto": true,
+    "no_serial": false
+  }
+}

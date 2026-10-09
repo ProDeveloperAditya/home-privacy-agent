@@ -1,0 +1,19 @@
+1791229104.477 [GAS] injected 130 % of alarm (raw 3030)
+1791229104.477 [TIER0] gas trip: reaction 20035 us, wifi=1 mqtt=1
+1791229106.522 [ENVELOPE] rejected: stove_valve -> open
+1791229108.464 [ENVELOPE] rejected: alarm_buzzer -> off
+1791229110.506 [ENVELOPE] rejected: door_lock -> unlocked
+1791229116.450 [ENVELOPE] rejected: gas_sensor -> disabled
+1791229118.457 f[0]=1.00 f[1]=1.00 f[2]=130.00 f[3]=0.00 f[4]=-1.72 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=103.00 f[10]=1.00 f[11]=5.00
+1791229118.457 gasRaw=3030 trip=1/0 wifi=1 mqtt=1 timeValid=1
+1791229120.686 ets Jul 29 2019 12:21:46
+1791229120.686 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791229120.686 configsip: 0, SPIWP:0xee
+1791229120.686 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791229120.686 mode:DIO, clock div:1
+1791229120.686 load:0x3fff0030,len:4876
+1791229120.686 ho 0 tail 12 room 4
+1791229120.895 load:0x40078000,len:16532
+1791229120.895 load:0x40080400,len:3500
+1791229120.895 entry 0x400805b4
+1791229121.312 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state

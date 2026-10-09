@@ -1,0 +1,194 @@
+[
+ {
+  "id": "H-C1-real2",
+  "group": "compound",
+  "expected_tool": "set_actuator",
+  "note": "REAL digest from node: slow gas creep + stove on + all asleep -> close stove_valve",
+  "digest": {
+   "node": "kitchen",
+   "time": "02:40",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": true,
+    "kitchen_temp_c": 24.9,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 0,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C1-real3",
+  "group": "compound",
+  "expected_tool": "set_actuator",
+  "note": "REAL digest from node: slow gas creep + stove on + all asleep -> close stove_valve",
+  "digest": {
+   "node": "kitchen",
+   "time": "02:40",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": true,
+    "kitchen_temp_c": 24.9,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 2,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 1
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C1-real4",
+  "group": "compound",
+  "expected_tool": "set_actuator",
+  "note": "REAL digest from node: slow gas creep + stove on + all asleep -> close stove_valve",
+  "digest": {
+   "node": "kitchen",
+   "time": "02:40",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": true,
+    "kitchen_temp_c": 25,
+    "kitchen_humidity_delta_pct": -1,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 4,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C1-real5",
+  "group": "compound",
+  "expected_tool": "set_actuator",
+  "note": "REAL digest from node: slow gas creep + stove on + all asleep -> close stove_valve",
+  "digest": {
+   "node": "kitchen",
+   "time": "02:40",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": true,
+    "kitchen_temp_c": 25,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 9,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C6-real2",
+  "group": "compound",
+  "expected_tool": "notify_resident",
+  "note": "REAL digest from node: smoke 35% + toaster hour vs real fire ambiguity -> warn, don't ignore",
+  "digest": {
+   "node": "kitchen",
+   "time": "08:05",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": false,
+    "kitchen_temp_c": 24.7,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 3,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C6-real3",
+  "group": "compound",
+  "expected_tool": "notify_resident",
+  "note": "REAL digest from node: smoke 35% + toaster hour vs real fire ambiguity -> warn, don't ignore",
+  "digest": {
+   "node": "kitchen",
+   "time": "08:05",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": false,
+    "kitchen_temp_c": 24.7,
+    "kitchen_humidity_delta_pct": 1,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 4,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 1
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C6-real4",
+  "group": "compound",
+  "expected_tool": "notify_resident",
+  "note": "REAL digest from node: smoke 35% + toaster hour vs real fire ambiguity -> warn, don't ignore",
+  "digest": {
+   "node": "kitchen",
+   "time": "08:05",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": false,
+    "kitchen_temp_c": 24.7,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 4,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ },
+ {
+  "id": "H-C6-real5",
+  "group": "compound",
+  "expected_tool": "notify_resident",
+  "note": "REAL digest from node: smoke 35% + toaster hour vs real fire ambiguity -> warn, don't ignore",
+  "digest": {
+   "node": "kitchen",
+   "time": "08:05",
+   "weekday": true,
+   "readings": {
+    "kitchen_gas_pct_alarm": 40,
+    "kitchen_stove_on": false,
+    "kitchen_temp_c": 24.7,
+    "kitchen_humidity_delta_pct": 0,
+    "motion_kitchen_min_ago": 0,
+    "kitchen_motion_events_20min": 5,
+    "kitchen_door": "closed",
+    "kitchen_light_ratio": 1,
+    "kitchen_flat_min": 0
+   },
+   "occupancy_estimate": "unknown (single-node view)",
+   "escalation_reason": "gas/smoke sub-alarm level (creeping)"
+  }
+ }
+]

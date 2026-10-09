@@ -1,0 +1,876 @@
+1791227066.743 f[0]=12.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227066.744 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227066.986 [GAS] injected 50 % of alarm (raw 1350)
+1791227066.986 [DOOR] injected OPEN
+1791227067.972 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227067.972 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227069.190 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227069.191 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227070.429 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227070.431 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227071.680 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227071.680 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227072.912 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227072.912 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227074.138 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227074.138 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227075.364 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227075.364 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227076.602 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227076.602 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227077.825 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227077.825 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227079.052 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227079.052 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227080.288 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227080.288 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227081.522 f[0]=12.00 f[1]=1.00 f[2]=50.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227081.522 gasRaw=1350 trip=0/0 wifi=1 mqtt=1 timeValid=0
+1791227082.749 ets Jul 29 2019 12:21:46
+1791227082.749 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227082.749 configsip: 0, SPIWP:0xee
+1791227082.749 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227082.749 mode:DIO, clock div:1
+1791227082.749 load:0x3fff0030,len:4876
+1791227082.749 ho 0 tail 12 room 4
+1791227082.965 load:0x40078000,len:16532
+1791227082.965 load:0x40080400,len:3500
+1791227082.965 entry 0x400805b4
+1791227083.385 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227087.528 [GAS] injected 0 % of alarm (raw 300)
+1791227087.528 [GAS] injected 130 % of alarm (raw 3030)
+1791227087.528 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227087.758 ets Jul 29 2019 12:21:46
+1791227087.758 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227087.758 configsip: 0, SPIWP:0xee
+1791227087.758 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227087.758 mode:DIO, clock div:1
+1791227087.758 load:0x3fff0030,len:4876
+1791227087.758 ho 0 tail 12 room 4
+1791227087.972 load:0x40078000,len:16532
+1791227087.972 load:0x40080400,len:3500
+1791227087.972 entry 0x400805b4
+1791227088.383 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227092.523 [GAS] injected 0 % of alarm (raw 300)
+1791227092.523 [GAS] injected 130 % of alarm (raw 3030)
+1791227092.523 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227092.750 ets Jul 29 2019 12:21:46
+1791227092.750 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227092.750 configsip: 0, SPIWP:0xee
+1791227092.750 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227092.750 mode:DIO, clock div:1
+1791227092.750 load:0x3fff0030,len:4876
+1791227092.750 ho 0 tail 12 room 4
+1791227092.948 load:0x40078000,len:16532
+1791227092.948 load:0x40080400,len:3500
+1791227092.948 entry 0x400805b4
+1791227093.377 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227097.523 [GAS] injected 0 % of alarm (raw 300)
+1791227097.523 [GAS] injected 130 % of alarm (raw 3030)
+1791227097.523 [TIER0] gas trip: reaction 20026 us, wifi=0 mqtt=0
+1791227097.749 ets Jul 29 2019 12:21:46
+1791227097.749 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227097.749 configsip: 0, SPIWP:0xee
+1791227097.749 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227097.749 mode:DIO, clock div:1
+1791227097.749 load:0x3fff0030,len:4876
+1791227097.749 ho 0 tail 12 room 4
+1791227097.958 load:0x40078000,len:16532
+1791227097.958 load:0x40080400,len:3500
+1791227097.958 entry 0x400805b4
+1791227098.390 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227102.529 [GAS] injected 0 % of alarm (raw 300)
+1791227102.529 [GAS] injected 130 % of alarm (raw 3030)
+1791227102.529 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227102.756 ets Jul 29 2019 12:21:46
+1791227102.756 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227102.756 configsip: 0, SPIWP:0xee
+1791227102.756 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227102.756 mode:DIO, clock div:1
+1791227102.756 load:0x3fff0030,len:4876
+1791227102.756 ho 0 tail 12 room 4
+1791227102.982 load:0x40078000,len:16532
+1791227102.982 load:0x40080400,len:3500
+1791227102.982 entry 0x400805b4
+1791227103.389 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227107.531 [GAS] injected 0 % of alarm (raw 300)
+1791227107.531 [GAS] injected 130 % of alarm (raw 3030)
+1791227107.531 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227107.757 ets Jul 29 2019 12:21:46
+1791227107.757 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227107.757 configsip: 0, SPIWP:0xee
+1791227107.757 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227107.757 mode:DIO, clock div:1
+1791227107.757 load:0x3fff0030,len:4876
+1791227107.757 ho 0 tail 12 room 4
+1791227107.963 load:0x40078000,len:16532
+1791227107.963 load:0x40080400,len:3500
+1791227107.963 entry 0x400805b4
+1791227108.383 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227112.526 [GAS] injected 0 % of alarm (raw 300)
+1791227112.526 [GAS] injected 130 % of alarm (raw 3030)
+1791227112.526 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227112.752 ets Jul 29 2019 12:21:46
+1791227112.752 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227112.752 configsip: 0, SPIWP:0xee
+1791227112.752 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227112.752 mode:DIO, clock div:1
+1791227112.752 load:0x3fff0030,len:4876
+1791227112.752 ho 0 tail 12 room 4
+1791227112.965 load:0x40078000,len:16532
+1791227112.965 load:0x40080400,len:3500
+1791227112.965 entry 0x400805b4
+1791227113.386 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227117.526 [GAS] injected 0 % of alarm (raw 300)
+1791227117.526 [GAS] injected 130 % of alarm (raw 3030)
+1791227117.526 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227117.752 ets Jul 29 2019 12:21:46
+1791227117.754 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227117.754 configsip: 0, SPIWP:0xee
+1791227117.754 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227117.754 mode:DIO, clock div:1
+1791227117.754 load:0x3fff0030,len:4876
+1791227117.754 ho 0 tail 12 room 4
+1791227117.966 load:0x40078000,len:16532
+1791227117.966 load:0x40080400,len:3500
+1791227117.966 entry 0x400805b4
+1791227118.378 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227122.522 [GAS] injected 0 % of alarm (raw 300)
+1791227122.522 [GAS] injected 130 % of alarm (raw 3030)
+1791227122.522 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227122.748 ets Jul 29 2019 12:21:46
+1791227122.748 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227122.748 configsip: 0, SPIWP:0xee
+1791227122.748 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227122.748 mode:DIO, clock div:1
+1791227122.748 load:0x3fff0030,len:4876
+1791227122.748 ho 0 tail 12 room 4
+1791227122.952 load:0x40078000,len:16532
+1791227122.952 load:0x40080400,len:3500
+1791227122.952 entry 0x400805b4
+1791227123.376 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227127.514 [GAS] injected 0 % of alarm (raw 300)
+1791227127.514 [GAS] injected 130 % of alarm (raw 3030)
+1791227127.514 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227127.739 ets Jul 29 2019 12:21:46
+1791227127.739 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227127.739 configsip: 0, SPIWP:0xee
+1791227127.739 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227127.739 mode:DIO, clock div:1
+1791227127.739 load:0x3fff0030,len:4876
+1791227127.739 ho 0 tail 12 room 4
+1791227127.947 load:0x40078000,len:16532
+1791227127.947 load:0x40080400,len:3500
+1791227127.947 entry 0x400805b4
+1791227128.378 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227132.515 [GAS] injected 0 % of alarm (raw 300)
+1791227132.515 [GAS] injected 130 % of alarm (raw 3030)
+1791227132.515 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227132.742 ets Jul 29 2019 12:21:46
+1791227132.742 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227132.742 configsip: 0, SPIWP:0xee
+1791227132.742 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227132.742 mode:DIO, clock div:1
+1791227132.742 load:0x3fff0030,len:4876
+1791227132.742 ho 0 tail 12 room 4
+1791227132.948 load:0x40078000,len:16532
+1791227132.949 load:0x40080400,len:3500
+1791227132.949 entry 0x400805b4
+1791227133.374 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227137.514 [GAS] injected 0 % of alarm (raw 300)
+1791227137.514 [GAS] injected 130 % of alarm (raw 3030)
+1791227137.514 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227137.740 ets Jul 29 2019 12:21:46
+1791227137.740 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227137.740 configsip: 0, SPIWP:0xee
+1791227137.740 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227137.740 mode:DIO, clock div:1
+1791227137.740 load:0x3fff0030,len:4876
+1791227137.740 ho 0 tail 12 room 4
+1791227137.954 load:0x40078000,len:16532
+1791227137.954 load:0x40080400,len:3500
+1791227137.954 entry 0x400805b4
+1791227138.365 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227142.512 [GAS] injected 0 % of alarm (raw 300)
+1791227142.512 [GAS] injected 130 % of alarm (raw 3030)
+1791227142.512 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227142.739 ets Jul 29 2019 12:21:46
+1791227142.739 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227142.739 configsip: 0, SPIWP:0xee
+1791227142.739 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227142.739 mode:DIO, clock div:1
+1791227142.739 load:0x3fff0030,len:4876
+1791227142.739 ho 0 tail 12 room 4
+1791227142.948 load:0x40078000,len:16532
+1791227142.948 load:0x40080400,len:3500
+1791227142.949 entry 0x400805b4
+1791227143.371 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227147.519 [GAS] injected 0 % of alarm (raw 300)
+1791227147.519 [GAS] injected 130 % of alarm (raw 3030)
+1791227147.519 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227147.745 ets Jul 29 2019 12:21:46
+1791227147.745 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227147.745 configsip: 0, SPIWP:0xee
+1791227147.745 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227147.745 mode:DIO, clock div:1
+1791227147.745 load:0x3fff0030,len:4876
+1791227147.745 ho 0 tail 12 room 4
+1791227147.956 load:0x40078000,len:16532
+1791227147.956 load:0x40080400,len:3500
+1791227147.956 entry 0x400805b4
+1791227148.376 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227152.511 [GAS] injected 0 % of alarm (raw 300)
+1791227152.511 [GAS] injected 130 % of alarm (raw 3030)
+1791227152.511 [TIER0] gas trip: reaction 20027 us, wifi=0 mqtt=0
+1791227152.736 ets Jul 29 2019 12:21:46
+1791227152.736 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227152.736 configsip: 0, SPIWP:0xee
+1791227152.736 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227152.736 mode:DIO, clock div:1
+1791227152.736 load:0x3fff0030,len:4876
+1791227152.736 ho 0 tail 12 room 4
+1791227152.951 load:0x40078000,len:16532
+1791227152.951 load:0x40080400,len:3500
+1791227152.951 entry 0x400805b4
+1791227153.368 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227157.511 [GAS] injected 0 % of alarm (raw 300)
+1791227157.512 [GAS] injected 130 % of alarm (raw 3030)
+1791227157.512 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227157.738 ets Jul 29 2019 12:21:46
+1791227157.738 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227157.738 configsip: 0, SPIWP:0xee
+1791227157.738 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227157.738 mode:DIO, clock div:1
+1791227157.738 load:0x3fff0030,len:4876
+1791227157.738 ho 0 tail 12 room 4
+1791227157.952 load:0x40078000,len:16532
+1791227157.952 load:0x40080400,len:3500
+1791227157.952 entry 0x400805b4
+1791227158.375 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227162.496 [GAS] injected 0 % of alarm (raw 300)
+1791227162.497 [GAS] injected 130 % of alarm (raw 3030)
+1791227162.497 [TIER0] gas trip: reaction 20027 us, wifi=1 mqtt=0
+1791227162.722 ets Jul 29 2019 12:21:46
+1791227162.723 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227162.723 configsip: 0, SPIWP:0xee
+1791227162.723 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227162.723 mode:DIO, clock div:1
+1791227162.723 load:0x3fff0030,len:4876
+1791227162.723 ho 0 tail 12 room 4
+1791227162.930 load:0x40078000,len:16532
+1791227162.930 load:0x40080400,len:3500
+1791227162.930 entry 0x400805b4
+1791227163.359 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227167.485 [GAS] injected 0 % of alarm (raw 300)
+1791227167.485 [GAS] injected 130 % of alarm (raw 3030)
+1791227167.485 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227167.711 ets Jul 29 2019 12:21:46
+1791227167.711 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227167.711 configsip: 0, SPIWP:0xee
+1791227167.711 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227167.711 mode:DIO, clock div:1
+1791227167.711 load:0x3fff0030,len:4876
+1791227167.711 ho 0 tail 12 room 4
+1791227167.929 load:0x40078000,len:16532
+1791227167.929 load:0x40080400,len:3500
+1791227167.929 entry 0x400805b4
+1791227168.346 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227172.477 [GAS] injected 0 % of alarm (raw 300)
+1791227172.477 [GAS] injected 130 % of alarm (raw 3030)
+1791227172.477 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227172.702 ets Jul 29 2019 12:21:46
+1791227172.702 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227172.702 configsip: 0, SPIWP:0xee
+1791227172.702 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227172.702 mode:DIO, clock div:1
+1791227172.702 load:0x3fff0030,len:4876
+1791227172.702 ho 0 tail 12 room 4
+1791227172.908 load:0x40078000,len:16532
+1791227172.908 load:0x40080400,len:3500
+1791227172.908 entry 0x400805b4
+1791227173.325 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227177.470 [GAS] injected 0 % of alarm (raw 300)
+1791227177.470 [GAS] injected 130 % of alarm (raw 3030)
+1791227177.471 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227177.696 ets Jul 29 2019 12:21:46
+1791227177.696 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227177.696 configsip: 0, SPIWP:0xee
+1791227177.696 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227177.696 mode:DIO, clock div:1
+1791227177.697 load:0x3fff0030,len:4876
+1791227177.697 ho 0 tail 12 room 4
+1791227177.906 load:0x40078000,len:16532
+1791227177.906 load:0x40080400,len:3500
+1791227177.906 entry 0x400805b4
+1791227178.329 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227182.475 [GAS] injected 0 % of alarm (raw 300)
+1791227182.475 [GAS] injected 130 % of alarm (raw 3030)
+1791227182.475 [TIER0] gas trip: reaction 20026 us, wifi=1 mqtt=0
+1791227182.714 [GAS] injected 0 % of alarm (raw 300)
+1791227182.714 [GAS] injected 130 % of alarm (raw 3030)
+1791227186.784 [ENVELOPE] rejected: alarm_buzzer -> off
+1791227188.816 [ENVELOPE] rejected: door_lock -> unlocked
+1791227194.758 [ENVELOPE] rejected: gas_sensor -> disabled
+1791227196.747 f[0]=12.00 f[1]=1.00 f[2]=130.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=5.00 f[10]=1.00 f[11]=0.00
+1791227196.747 gasRaw=3030 trip=1/0 wifi=1 mqtt=1 timeValid=0
+1791227198.977 ets Jul 29 2019 12:21:46
+1791227198.977 rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+1791227198.977 configsip: 0, SPIWP:0xee
+1791227198.977 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+1791227198.977 mode:DIO, clock div:1
+1791227198.977 load:0x3fff0030,len:4876
+1791227198.977 ho 0 tail 12 room 4
+1791227199.188 load:0x40078000,len:16532
+1791227199.189 load:0x40080400,len:3500
+1791227199.189 entry 0x400805b4
+1791227199.603 node kitchen up. Serial: 'c' calibrate, 's' status, 'l' tier0 latency, 'e' evaluate gate now, 'r' reset trial state
+1791227208.181 [RESET] trial state cleared
+1791227209.691 [DOOR] injected OPEN
+1791227212.697 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227272.540 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227272.540 [FEAT],kitchen,18.00,1.00,0.00,0.00,0.00,24.70,1.00,1.00,0.00,1.00,1.00,0.00
+1791227272.611 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.611 gasRaw=300 trip=0/0 wifi=1 mqtt=0 timeValid=1
+1791227272.611 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.666 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227272.666 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.666 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227272.707 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.707 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227272.707 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.762 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227272.762 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227272.762 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227272.864 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227272.864 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227272.864 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227272.864 [RESET] trial state cleared
+1791227272.864 [DOOR] injected OPEN
+1791227273.071 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227332.916 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227332.916 [FEAT],kitchen,18.00,1.00,0.00,0.00,0.00,24.70,1.00,1.00,0.00,0.00,1.00,1.00
+1791227333.021 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.021 gasRaw=300 trip=0/0 wifi=1 mqtt=0 timeValid=1
+1791227333.021 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.077 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.077 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.077 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.117 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.117 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.117 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.173 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.173 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.173 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.242 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227333.242 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227333.242 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227333.242 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227333.511 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227333.511 [RESET] trial state cleared
+1791227333.511 [DOOR] injected OPEN
+1791227333.511 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227393.355 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227393.355 [FEAT],kitchen,18.00,1.00,0.00,0.00,0.00,24.80,1.00,1.00,0.00,0.00,1.00,1.00
+1791227393.428 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.428 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.428 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.483 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.483 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.483 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.523 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.523 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.524 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.579 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.579 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227393.579 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227393.679 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227393.679 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227393.679 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227393.679 [RESET] trial state cleared
+1791227393.679 [DOOR] injected OPEN
+1791227393.888 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227453.729 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227453.729 [FEAT],kitchen,18.00,1.00,0.00,0.00,0.00,24.80,1.00,1.00,0.00,0.00,1.00,1.00
+1791227453.781 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.781 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227453.781 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.836 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227453.836 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.836 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227453.876 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.876 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227453.876 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.932 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227453.932 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227453.932 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227454.032 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227454.032 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227454.032 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227454.032 [RESET] trial state cleared
+1791227454.032 [DOOR] injected OPEN
+1791227454.240 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227514.082 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227514.082 [FEAT],kitchen,18.00,1.00,0.00,0.00,-0.98,24.90,0.00,1.00,0.00,1.00,1.00,0.00
+1791227514.157 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.157 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.157 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.212 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.212 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.212 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.252 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.252 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.252 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.308 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.308 f[0]=18.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=-0.98 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227514.308 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.427 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791227514.427 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227514.427 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227514.427 [RESET] trial state cleared
+1791227514.427 [STOVE] injected ON
+1791227514.427 [GAS] injected 40 % of alarm (raw 1140)
+1791227514.467 f[0]=2.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.467 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.523 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.523 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.523 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.523 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.563 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.563 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.620 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.620 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.620 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.620 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.657 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=1.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227514.657 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227514.657 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227514.715 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227514.715 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227514.772 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227514.772 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227514.882 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227514.882 [RESET] trial state cleared
+1791227514.882 [STOVE] injected ON
+1791227514.882 [GAS] injected 40 % of alarm (raw 1140)
+1791227515.088 f[0]=2.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227515.088 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227516.302 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227516.302 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227518.530 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227518.530 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227520.760 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227520.760 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227522.992 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227522.992 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227525.221 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227525.222 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227527.461 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227527.461 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227529.697 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227529.697 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227531.928 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227531.928 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227534.166 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227534.166 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227536.410 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791227536.410 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227538.643 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227538.643 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227540.873 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227540.873 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227543.110 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227543.110 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227543.147 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227543.377 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":4,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227572.139 [RESET] trial state cleared
+1791227573.685 [STOVE] injected ON
+1791227573.685 [GAS] injected 40 % of alarm (raw 1140)
+1791227573.685 f[0]=2.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227573.685 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227574.068 [FEAT],kitchen,2.00,1.00,40.00,40.00,0.00,24.90,0.00,0.00,1.00,0.00,1.00,1.00
+1791227574.294 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":1},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227575.931 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227575.931 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227578.163 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227578.163 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227580.398 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227580.398 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227582.628 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227582.629 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227584.859 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227584.859 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227587.090 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227587.090 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227589.324 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227589.325 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227591.560 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227591.560 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227593.779 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227593.779 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227596.027 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227596.027 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227598.258 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=1.00
+1791227598.258 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227600.497 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=1.00
+1791227600.497 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227602.719 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=1.00
+1791227602.719 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227604.951 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=1.00
+1791227604.952 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227604.984 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227605.201 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":24.9,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":2,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":1},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227613.995 [RESET] trial state cleared
+1791227615.550 [STOVE] injected ON
+1791227615.550 [GAS] injected 40 % of alarm (raw 1140)
+1791227615.550 f[0]=2.00 f[1]=1.00 f[2]=20.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227615.550 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227617.778 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227617.778 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227620.023 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227620.023 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227622.233 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227622.233 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227624.467 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227624.468 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227626.713 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.90 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227626.713 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227628.945 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227628.945 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227631.183 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227631.183 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227633.406 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227633.406 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227634.072 [FEAT],kitchen,2.00,1.00,40.00,40.00,-0.98,25.00,0.00,0.00,1.00,2.00,1.00,0.00
+1791227634.299 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-1,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":2,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227635.637 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227635.637 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227637.864 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227637.864 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227640.100 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227640.100 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227642.327 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227642.327 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227644.559 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791227644.559 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227646.798 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-0.98 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227646.798 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227646.829 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227647.063 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-1,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":4,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227655.837 [RESET] trial state cleared
+1791227657.389 [STOVE] injected ON
+1791227657.389 [GAS] injected 40 % of alarm (raw 1140)
+1791227657.389 f[0]=2.00 f[1]=1.00 f[2]=20.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227657.389 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227659.631 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227659.631 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227661.871 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227661.871 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227664.099 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227664.099 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227666.348 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227666.348 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227668.584 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791227668.584 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227670.809 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791227670.809 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227673.032 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227673.032 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227675.265 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791227675.265 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227677.499 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=5.00 f[10]=1.00 f[11]=0.00
+1791227677.499 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227679.736 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=6.00 f[10]=1.00 f[11]=0.00
+1791227679.737 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227681.979 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=7.00 f[10]=1.00 f[11]=0.00
+1791227681.979 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227684.209 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=7.00 f[10]=1.00 f[11]=0.00
+1791227684.209 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227686.433 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=8.00 f[10]=1.00 f[11]=0.00
+1791227686.433 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227688.671 f[0]=2.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=0.00 f[8]=1.00 f[9]=8.00 f[10]=1.00 f[11]=0.00
+1791227688.671 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227688.703 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791227688.938 [ESCALATE] {"node":"kitchen","time":"02:40","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":true,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":9,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791227694.282 [FEAT],kitchen,2.00,1.00,40.00,40.00,0.00,25.00,0.00,0.00,1.00,9.00,1.00,1.00
+1791227697.692 [RESET] trial state cleared
+1791227699.200 [DOOR] injected OPEN
+1791227702.206 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227762.045 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227762.045 [FEAT],kitchen,23.00,1.00,0.00,0.00,0.00,25.00,1.00,1.00,0.00,1.00,1.00,0.00
+1791227762.095 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.095 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.095 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.150 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.151 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.151 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.191 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.191 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.192 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.247 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.247 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791227762.247 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227762.352 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227762.352 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227762.352 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227762.352 [RESET] trial state cleared
+1791227762.352 [DOOR] injected OPEN
+1791227762.553 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227822.400 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227822.400 [FEAT],kitchen,23.00,1.00,0.00,0.00,0.00,25.00,0.00,1.00,0.00,1.00,1.00,1.00
+1791227822.502 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.502 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.502 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.557 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.558 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.558 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.598 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.598 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.598 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.653 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.653 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.653 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.723 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=25.00 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=1.00
+1791227822.723 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227822.723 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227822.723 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227822.980 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227822.980 [RESET] trial state cleared
+1791227822.980 [DOOR] injected OPEN
+1791227822.980 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227882.836 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227882.836 [FEAT],kitchen,23.00,1.00,0.00,0.00,0.98,24.90,1.00,1.00,0.00,0.00,1.00,0.00
+1791227882.949 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227882.949 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227882.949 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227883.004 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227883.004 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227883.005 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227883.045 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227883.045 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227883.045 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227883.100 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227883.100 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.98 f[5]=24.90 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791227883.101 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227883.203 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227883.204 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227883.204 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227883.204 [RESET] trial state cleared
+1791227883.204 [DOOR] injected OPEN
+1791227883.408 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791227943.249 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791227943.249 [FEAT],kitchen,23.00,1.00,0.00,0.00,0.00,24.80,1.00,1.00,0.00,0.00,1.00,1.00
+1791227943.350 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.350 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.350 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.405 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.405 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.405 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.445 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.446 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.446 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.500 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.500 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.80 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791227943.500 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791227943.603 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227943.603 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227943.603 [DECIDE] gate=0 gasband=0 reason="unexpected door event at night"
+1791227943.604 [RESET] trial state cleared
+1791227943.604 [DOOR] injected OPEN
+1791227943.808 calibrating 60 s — keep sensor in CLEAN AIR, then repeat near an UNLIT lighter's gas
+1791228003.650 clean-air raw: min=300 avg=300 max=300  -> set GAS_CLEAN_RAW~avg, GAS_ALARM_RAW between avg and gas-exposed value
+1791228003.650 [FEAT],kitchen,23.00,1.00,0.00,0.00,0.00,24.70,1.00,1.00,0.00,0.00,1.00,1.00
+1791228003.715 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.715 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.715 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.770 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.770 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.770 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.811 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.811 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.811 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.868 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.868 f[0]=23.00 f[1]=1.00 f[2]=0.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=1.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=1.00
+1791228003.868 gasRaw=300 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228003.968 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791228003.968 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791228003.968 [DECIDE] gate=0 gasband=0 reason="learned gate flagged unusual pattern"
+1791228003.968 [RESET] trial state cleared
+1791228003.968 [GAS] injected 40 % of alarm (raw 1140)
+1791228004.006 f[0]=8.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.006 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.061 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.061 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.061 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.061 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.102 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.102 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.157 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.157 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.157 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.157 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.198 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=1.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.198 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228004.198 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228004.255 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228004.255 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228004.310 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228004.310 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228004.403 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":0,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228004.403 [RESET] trial state cleared
+1791228004.403 [GAS] injected 40 % of alarm (raw 1140)
+1791228004.622 f[0]=8.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228004.622 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228005.646 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228005.646 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228007.889 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228007.889 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228010.125 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228010.125 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228012.364 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228012.364 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228014.598 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228014.598 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228016.834 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=0.80 f[11]=0.00
+1791228016.834 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228019.064 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228019.064 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228021.314 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228021.314 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228023.545 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228023.545 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228025.777 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228025.777 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228028.018 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228028.018 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228030.250 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228030.250 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228032.472 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228032.472 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228032.505 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228032.726 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":3,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228041.473 [RESET] trial state cleared
+1791228042.997 [GAS] injected 40 % of alarm (raw 1140)
+1791228042.997 f[0]=8.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228042.997 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228045.217 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228045.217 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228047.440 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228047.440 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228049.676 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228049.676 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228051.912 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228051.912 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228054.165 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228054.166 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228056.397 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228056.397 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228058.614 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228058.615 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228060.834 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=0.57 f[11]=0.00
+1791228060.834 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228063.063 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228063.063 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228063.630 [FEAT],kitchen,8.00,1.00,40.00,40.00,0.00,24.70,0.00,0.00,0.00,3.00,1.00,1.00
+1791228063.853 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":3,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":1},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228065.293 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=1.00
+1791228065.293 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228067.539 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=1.00
+1791228067.539 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228069.767 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=1.00
+1791228069.767 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228072.004 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=1.00
+1791228072.004 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228074.242 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=1.00
+1791228074.242 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228074.277 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228074.505 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":1,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":4,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":1},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228083.766 [RESET] trial state cleared
+1791228085.277 [GAS] injected 40 % of alarm (raw 1140)
+1791228085.277 f[0]=8.00 f[1]=1.00 f[2]=20.00 f[3]=40.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228085.277 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228087.511 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228087.511 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228089.750 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228089.750 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228091.999 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228091.999 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228094.227 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228094.227 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228096.459 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228096.460 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228098.704 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228098.704 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228100.942 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228100.942 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228103.182 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228103.182 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228105.409 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228105.409 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228107.644 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228107.644 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228109.894 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=-1.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228109.894 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228112.121 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228112.121 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228114.364 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228114.364 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228116.591 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=40.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228116.591 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228116.627 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228116.855 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":4,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228123.832 [FEAT],kitchen,8.00,1.00,40.00,0.00,0.00,24.70,0.00,0.00,0.00,4.00,1.00,1.00
+1791228125.601 [RESET] trial state cleared
+1791228127.138 [GAS] injected 40 % of alarm (raw 1140)
+1791228127.138 f[0]=8.00 f[1]=1.00 f[2]=20.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228127.139 gasRaw=720 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228129.370 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228129.370 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228131.603 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=0.00 f[10]=1.00 f[11]=0.00
+1791228131.603 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228133.842 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228133.842 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228136.075 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228136.075 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228138.314 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228138.314 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228140.555 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228140.556 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228142.797 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=1.00 f[10]=1.00 f[11]=0.00
+1791228142.798 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228145.031 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228145.031 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228147.274 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228147.274 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228149.500 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=2.00 f[10]=1.00 f[11]=0.00
+1791228149.501 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228151.744 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228151.744 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228153.980 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=3.00 f[10]=1.00 f[11]=0.00
+1791228153.980 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228156.221 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=4.00 f[10]=1.00 f[11]=0.00
+1791228156.221 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228158.459 f[0]=8.00 f[1]=1.00 f[2]=40.00 f[3]=0.00 f[4]=0.00 f[5]=24.70 f[6]=0.00 f[7]=0.00 f[8]=0.00 f[9]=5.00 f[10]=1.00 f[11]=0.00
+1791228158.459 gasRaw=1140 trip=0/0 wifi=1 mqtt=1 timeValid=1
+1791228158.502 [DECIDE] gate=1 gasband=1 reason="gas/smoke sub-alarm level (creeping)"
+1791228158.737 [ESCALATE] {"node":"kitchen","time":"08:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":5,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228183.844 [FEAT],kitchen,8.00,1.00,40.00,0.00,0.00,24.70,0.00,0.00,0.00,6.00,1.00,1.00
+1791228243.669 [FEAT],kitchen,0.00,1.00,40.00,0.00,0.00,24.70,0.00,0.00,0.00,11.00,1.00,2.00
+1791228243.890 [ESCALATE] {"node":"kitchen","time":"00:53","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.7,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":11,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":2},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228303.873 [FEAT],kitchen,0.00,1.00,40.00,40.00,0.00,24.70,0.00,0.00,0.00,17.00,1.00,3.00
+1791228363.693 [FEAT],kitchen,0.00,1.00,40.00,40.00,0.00,24.60,0.00,0.00,0.00,23.00,1.00,4.00
+1791228363.918 [ESCALATE] {"node":"kitchen","time":"00:55","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":24.6,"kitchen_humidity_delta_pct":0,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":23,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":4},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228423.903 [FEAT],kitchen,0.00,1.00,40.00,40.00,0.00,24.60,0.00,0.00,0.00,28.00,1.00,5.00
+1791228483.910 [FEAT],kitchen,0.00,1.00,40.00,40.00,0.00,24.70,0.00,0.00,0.00,34.00,0.56,0.00
+1791228543.929 [FEAT],kitchen,0.00,1.00,40.00,40.00,0.00,24.80,0.00,0.00,0.00,35.00,0.67,0.00
+1791228603.742 [FEAT],kitchen,0.00,1.00,40.00,0.00,-1.97,25.00,0.00,0.00,0.00,40.00,0.54,0.00
+1791228603.973 [ESCALATE] {"node":"kitchen","time":"00:59","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-2,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":40,"kitchen_door":"closed","kitchen_light_ratio":0.5,"kitchen_flat_min":0},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gas/smoke sub-alarm level (creeping)"}
+1791228663.951 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.93,25.00,1.00,0.00,0.00,40.00,0.56,0.00
+1791228723.970 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.90,25.00,0.00,0.00,0.00,42.00,0.82,0.00
+1791228783.977 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.87,25.10,0.00,0.00,0.00,47.00,1.00,0.00
+1791228843.984 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.84,25.10,0.00,0.00,0.00,57.00,1.00,1.00
+1791228903.799 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.81,25.00,0.00,0.00,0.00,72.00,1.00,2.00
+1791228904.026 [ESCALATE] {"node":"kitchen","time":"01:04","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-1.8,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":72,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":2},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gateway-requested sensor recheck"}
+1791228963.808 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.78,25.00,0.00,0.00,0.00,75.00,1.00,3.00
+1791228964.035 [ESCALATE] {"node":"kitchen","time":"01:05","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-1.8,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":75,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":3},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gateway-requested sensor recheck"}
+1791229023.810 [FEAT],kitchen,1.00,1.00,40.00,0.00,-1.75,25.00,0.00,0.00,0.00,85.00,1.00,4.00
+1791229024.040 [ESCALATE] {"node":"kitchen","time":"01:06","weekday":true,"readings":{"kitchen_gas_pct_alarm":40,"kitchen_stove_on":false,"kitchen_temp_c":25,"kitchen_humidity_delta_pct":-1.7,"motion_kitchen_min_ago":0,"kitchen_motion_events_20min":85,"kitchen_door":"closed","kitchen_light_ratio":1,"kitchen_flat_min":4},"occupancy_estimate":"unknown (single-node view)","escalation_reason":"gateway-requested sensor recheck"}
